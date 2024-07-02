@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashutosh
-- 👀 I’m interested in writing in digital relam!
-- 🌱 I’m currently learning graphWriting , typography
-- 💞️ I’m looking to collaborate on vim, markdown, mdbook, logseq
+- 👀 I’m interested in writing !
+- 💞️ I’m looking to collaborate on vim, markdown, mdbook, nostr
 - 📫 How to reach me ...amj@shutri.com
 
 <!---
